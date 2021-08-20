@@ -53,7 +53,7 @@ public class MainActivity extends AppCompatActivity {
                 String winner;
                 if(state[winState[0]]==0){
                     winner = "O wins!";
-                }
+                 }
                 else{
                     winner = "X wins!";
                 }
